@@ -1,0 +1,4 @@
+[submodule "Sistemas_embarcados"]
+	path = Sistemas_embarcados
+	url = https://github.com/Johann-Reguse/Sistemas_embarcados
+	branch = master
